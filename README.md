@@ -4,6 +4,6 @@ This is a base plugin for adding a custom preset calculator to RMC Pro. It can b
 
 Function and class names are generic and should be renamed for specific uses.
 
-* RMC Pro
+### About RMC Pro
 
 Responsive Mortgage Calculator Pro is a WordPress plugin available through https://liddweaver.com.
